@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tarabh41
 
-<!--
-**Tarabh41/Tarabh41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple and beginner-friendly project created to explore and improve my understanding of  HTML, CSS, JavaScript  . This project includes core features and is designed to be easy to use and understand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Overview
+
+This project was developed as part of my learning journey.  The main goal was to practice clean coding, logic building, and tool integration.
+
+---
+
+## 🔧 Tech Stack
+
+javascript
